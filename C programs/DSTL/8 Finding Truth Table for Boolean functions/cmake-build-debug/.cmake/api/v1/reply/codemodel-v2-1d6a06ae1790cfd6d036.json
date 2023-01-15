@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "8_Finding_Truth_Table_for_Boolean_functions",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "8_Finding_Truth_Table_for_Boolean_functions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8_Finding_Truth_Table_for_Boolean_functions-Debug-66707bb3ec4d85d80fd7.json",
+					"name" : "8_Finding_Truth_Table_for_Boolean_functions",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/SHUBHANKAR GUPTA/Documents/1 JETBRAIN/1 CLionProjects/DSTL/8 Finding Truth Table for Boolean functions/cmake-build-debug",
+		"source" : "C:/Users/SHUBHANKAR GUPTA/Documents/1 JETBRAIN/1 CLionProjects/DSTL/8 Finding Truth Table for Boolean functions"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

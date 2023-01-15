@@ -1,0 +1,3 @@
+C:/Users/SHUBHANKAR GUPTA/Documents/CLionProjects/DSTL/5 Power Set operation/cmake-build-debug/CMakeFiles/the_Power_Set_operation.dir
+C:/Users/SHUBHANKAR GUPTA/Documents/CLionProjects/DSTL/5 Power Set operation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SHUBHANKAR GUPTA/Documents/CLionProjects/DSTL/5 Power Set operation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
